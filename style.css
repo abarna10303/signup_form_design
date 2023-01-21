@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.form-section{
+    background-color: rgb(159, 197, 233);
+    padding: 100px 0px;
+}
+.container{
+    width: 85%;
+    margin: 0 auto;
+    background-color: rgb(255, 229, 154);
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+h1{
+    font-size: 38px;
+    margin-bottom: 30px;
+}
+.lbl,.txt{
+    display: block;
+    font-size: 23px;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+.txt{
+    
+    border: none;
+}
